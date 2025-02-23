@@ -14,5 +14,5 @@ SepalWidthCm,
 PetalLengthCm,
 PetalWidthCm,
 It is possible to determine the type of plant with good accuracy.
-Code: 
+Code: https://github.com/AliRezaKhatibi/Clustering/blob/3a2dac4a46d3993405f23a350cb840ceaf2df2e2/code_iris.ipynb
 

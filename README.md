@@ -3,7 +3,7 @@ Using Kmeans and Kneighbors algorithm for clustering Iris and Mall data
 
 In the Mall_Customers dataset 
 KMeans algorithm has been used for clustering by selecting the most optimal features
-Code : [Code_Mall.ipynb](https://github.com/AliRezaKhatibi/Clustering/blob/37f78016330668536b4cb6898731a9575316a0be/README.md)
+Code : [Code_Mall.ipynb](https://github.com/AliRezaKhatibi/Clustering/blob/3a2dac4a46d3993405f23a350cb840ceaf2df2e2/Code_Mall.ipynb)
 
 In the iris dataset 
 From Neighbors algorithm in the direction of clustering by choosing the most optimal features in order to classify this plant into three categories:

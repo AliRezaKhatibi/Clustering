@@ -16,11 +16,11 @@ Clone this repository and open the notebooks in Jupyter:
 ```bash
 git clone https://github.com/AliRezaKhatibi/Clustering.git
 cd Clustering
-python -m pip install jupyter numpy pandas matplotlib scikit-learn
+python -m pip install jupyter numpy pandas matplotlib scikit-learn seaborn
 jupyter notebook
 ```
 
-Check the notebook imports and dataset paths before executing all cells. The dependency list above is a starting point, not a tested lockfile.
+Launch Jupyter from the repository root; both notebooks load their CSV files from `data/`. Install `seaborn` for the Iris notebook. Check notebook imports before executing all cells. The dependency list above is a starting point, not a tested lockfile.
 
 ## Learning objectives
 
